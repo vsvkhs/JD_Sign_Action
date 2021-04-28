@@ -1,6 +1,9 @@
 # Alook jump：
 https://uf.jr.jd.com/up/phone2/phone2.html?actCode=82FBDBF455
 
+# JD Sign in Cokie
+https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html
+
 # 基于github action的京东自动化签到JDcokie
 
 ## 介绍：
