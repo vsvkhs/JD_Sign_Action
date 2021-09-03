@@ -1,4 +1,4 @@
-# Alook jump：
+# Alook jump to：
 https://uf.jr.jd.com/up/phone2/phone2.html?actCode=82FBDBF455
 
 # JD Sign in for Cokie
